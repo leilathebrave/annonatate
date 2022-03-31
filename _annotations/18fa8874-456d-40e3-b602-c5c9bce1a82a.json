@@ -1,0 +1,31 @@
+---
+canvas: "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "ANNOTATE",
+            "purpose": "commenting",
+            "creator": {
+                "id": "leilathebrave",
+                "name": "leilathebrave"
+            },
+            "created": "2022-03-31T19:15:50.500Z",
+            "modified": "2022-03-31T19:15:51.982Z"
+        }
+    ],
+    "target": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=63.6696662902832,91.93460083007812,215.55503463745117,177.97869873046875"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "18fa8874-456d-40e3-b602-c5c9bce1a82a.json",
+    "motivation": "commenting"
+}
